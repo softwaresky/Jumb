@@ -1,1 +1,1 @@
-# Jumb
+# Jumb - PySide2 
